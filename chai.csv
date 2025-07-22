@@ -1,0 +1,12 @@
+date,city,chaitype,cups_sold,revenue
+2024-01-01,delhi,masalaA,12,1500
+2024-03-11,MUMBAI,masalab,12,1400
+2024-02-21,banglore,masalaC,12,1300
+2024-04-31,hamirpur,masalaD,12,1200
+2024-05-16,up,masalaE,12,1500
+2024-06-14,channi,masalaF,12,1600
+2024-07-23,pb,masalaG,12,1700
+2024-08-24,ch,masalaH,12,1800
+2024-09-22,pune,masalaI,12,1800
+2024-10-19,shimla,masalaJ,12,1900
+2024-11-10,kolkata,masalaK,12,1200
