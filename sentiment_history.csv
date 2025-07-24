@@ -1,0 +1,6 @@
+| Text                          | Sentiment | Score  |
+| ----------------------------- | --------- | ------ |
+| I love this movie!            | POSITIVE  | 0.9998 |
+| This is the worst day ever    | NEGATIVE  | 0.9983 |
+| It's okay, not great          | NEUTRAL   | 0.5123 |
+| I'm not sure how I feel today | NEUTRAL   | 0.5002 |
